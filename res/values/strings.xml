@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AdobeAndroidDeveloperChallenge</string>
+    <string name="app_name">AADC</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="default_spinner_value">Sorted by Rating</string>
+    <string name="internal_error">Internal Error</string>
+    <string name="title_activity_app_details">Details</string>
+	<string name="internet_error">Please Connect to Internet </string>
 </resources>
